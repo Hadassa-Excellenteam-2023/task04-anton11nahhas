@@ -1,1 +1,1 @@
-﻿target_sources (Task06 PRIVATE "main.cpp")
+﻿target_sources (task04-anton11nahhas PRIVATE "main.cpp"     "../include/Controller.h" "Controller.cpp")
